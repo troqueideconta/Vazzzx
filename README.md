@@ -15,12 +15,10 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCboXgw20UlbAiZHld7dph2g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vaz_lucas_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lvaz80635@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiEzK6loa33AhUiK7kGHe4KDYEQFnoECBAQAQ&url=https%3A%2F%2Fwww.jetbrains.com%2Fpt-br%2Fidea%2F&usg=AOvVaw1oW-y21ztdXo6P1OZsIfYD" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a>     
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQ2f-hoa33AhUDLLkGHWB0DuQQFnoECBMQAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fpt-br%2Fwindows%2F&usg=AOvVaw3FS_duD590ydLHigo-uerR" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwju1YSIoa33AhWlH7kGHUIRATMQFnoECBEQAQ&url=https%3A%2F%2Fwww.npmjs.com%2F&usg=AOvVaw3X687KpYu1DK9666uZ55b8" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a> 
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjI1b_9oK33AhXpH7kGHf6-BeoQFnoECBAQAQ&url=https%3A%2F%2Fmaven.apache.org%2F&usg=AOvVaw1YYiU6vhRx9JgPlCaD8pID" target="_blank"><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Vazzzx/Vazzzx/blob/output/github-contribution-grid-snake.svg)
   
