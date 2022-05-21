@@ -25,10 +25,6 @@
 </div>
 
 <div>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bs_vaz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/472492115205685272)](https://discord.com/users/472492115205685272)
  
   </div>
 
