@@ -28,6 +28,6 @@
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bs_vaz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/472492115205685272?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/472492115205685272)
+[![Discord Presence](https://lanyard.cnrad.dev/api/472492115205685272)](https://discord.com/users/472492115205685272)
  
   </div>
