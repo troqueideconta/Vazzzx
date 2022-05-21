@@ -28,11 +28,9 @@
  
   </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bs_vaz&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-  <img height="100em" src="https://spotify-github-profile.vercel.app/api/view?uid=bs_vaz&cover_image=true&theme=default"/>
+  <img height="120em" src="https://spotify-github-profile.vercel.app/api/view?uid=bs_vaz&cover_image=true&theme=default"/>
 <a href="https://lanyard.cnrad.dev/api/472492115205685272">
   <img height="100em" src="https://discord.com/users/472492115205685272"/>
 </div>
