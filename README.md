@@ -22,10 +22,5 @@
 
 
   ![Snake animation](https://github.com/Vazzzx/Vazzzx/blob/output/github-contribution-grid-snake.svg)
-  <p align="center">
-    <br>
-  <a href="https://discord.com/users/472492115205685272" target="_blank">
-    <img width="45%" src="https://lanyard.cnrad.dev/api/472492115205685272?bg=151515&borderRadius=5px" alt="Discord Status"/>
-    </a>
 
 </div>
