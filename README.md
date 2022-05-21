@@ -23,5 +23,6 @@
 
   ![Snake animation](https://github.com/Vazzzx/Vazzzx/blob/output/github-contribution-grid-snake.svg)
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bs_vaz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://discord.com/users/472492115205685272" target="_blank">
 
 </div>
