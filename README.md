@@ -20,11 +20,8 @@
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiu5_6Yoa33AhVJJ7kGHR2SClEQFnoECBEQAQ&url=https%3A%2F%2Fwww.mysql.com%2F&usg=AOvVaw20c6IrMAtNC1A9NZPsDpWW" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjI1b_9oK33AhXpH7kGHf6-BeoQFnoECBAQAQ&url=https%3A%2F%2Fmaven.apache.org%2F&usg=AOvVaw1YYiU6vhRx9JgPlCaD8pID" target="_blank"><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" target="_blank"></a>
 
-<div>
-     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bs_vaz&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-  </div>   
-<div>
- 
+
   ![Snake animation](https://github.com/Vazzzx/Vazzzx/blob/output/github-contribution-grid-snake.svg)
-  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bs_vaz&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
